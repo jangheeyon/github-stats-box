@@ -29,5 +29,3 @@
     - **K_FORMAT:** Boolean value, If `true`, large numbers values will be formatted with a "k", for example `1.5k`
 
 That's it! You gist will be updated immediately, and every 12 hours after that
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangheeyon&show_icons=true&theme=radical)
